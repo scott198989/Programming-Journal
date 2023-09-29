@@ -6,7 +6,7 @@ Sure thing, Scott! Writing a good README is like creating a user manual for your
 
 A simple but powerful journaling tool built for programmers. Save your daily learnings, challenges, and accomplishments with ease!
 
-![Programming Journal Screenshot](./assets/Programming-Journal-Python.png)
+![Programming Journal Screenshot]([./assets/Programming-Journal-Python.png](https://github.com/scott198989/Programming-Journal/blob/main/Programming-Journal-Python.png))
 
 
 ## Requirements
