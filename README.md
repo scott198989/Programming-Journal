@@ -1,7 +1,3 @@
-Sure thing, Scott! Writing a good README is like creating a user manual for your project. Below is a sample README you can use for your programming journal application.
-
----
-
 # Programming Diary
 
 A simple but powerful journaling tool built for programmers. Save your daily learnings, challenges, and accomplishments with ease!
@@ -26,8 +22,6 @@ A simple but powerful journaling tool built for programmers. Save your daily lea
    ```
    cd ProgrammingDiary
    ```
-
-3. Install any project-specific dependencies (if any).
 
 ## How to Run
 
